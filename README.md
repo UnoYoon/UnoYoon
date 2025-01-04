@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite)
 
 ### Algorithm
-![BOJ Badge](https://img.shields.io/badge/BOJ-dnjsgh1204-gray?style=flat-square&logo=codeforces&logoColor=white)
+![BOJ Stats](http://mazassumnida.wtf/api/generate_badge?boj=dnjsgh1204)
 <!--/
 **UnoYoon/UnoYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
