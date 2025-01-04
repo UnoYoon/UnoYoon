@@ -7,11 +7,12 @@
 
 ### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite)
 
-### Algorithm
-![BOJ Stats](http://mazassumnida.wtf/api/generate_badge?boj=dnjsgh1204)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats" style="margin-right: 10px;">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=dnjsgh1204" alt="BOJ Stats">
+</div>
+
 <!--/
 **UnoYoon/UnoYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
