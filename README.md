@@ -1,8 +1,13 @@
-Developer Toolkit
-Langauges
-"https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" "https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" 
-Framework
-"https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white
+## Developer Toolkit
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### Framework
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite)
 <!--/
 **UnoYoon/UnoYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
