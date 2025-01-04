@@ -8,9 +8,9 @@
 ### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
-### Github stats
+## Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite)
-### Algorithm
+## Algorithm
 ![BOJ Stats](http://mazassumnida.wtf/api/generate_badge?boj=dnjsgh1204)
 
 <!--/
