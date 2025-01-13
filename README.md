@@ -12,7 +12,7 @@
 ### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
-## My_WebSite
+## My WebSite
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=unoyoon_12)](https://velog.io/@unoyoon_12/posts) 
 
 ## Github stats
