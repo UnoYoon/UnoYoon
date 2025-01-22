@@ -18,9 +18,12 @@
 ## Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite)
 
-## Algorithm
-![BOJ Stats](http://mazassumnida.wtf/api/generate_badge?boj=dnjsgh1204)
+## 🧑‍💻 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsgh1204)](https://solved.ac/dnjsgh1204/)
 
+## :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:infrontof111@gmail.com)](mailto:infrontof111@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:infrontof111@naver.com)](mailto:infrontof111@naver.com)
 
 <!--/
 **UnoYoon/UnoYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
