@@ -31,7 +31,7 @@
 
 | No | 🏆 Project Name | 📌 Description | 🔧 Key Technologies | 👥 Team Size | 🔗 Link | 📅 Date |
 |----|---------------|---------------|-------------------|-----------|------|------|
-| **1**  | 🎬 **NetflixSuggest** | A CRUD system interacting with a database using Netflix Movie Data and JDBC (Java Database Connectivity) |  Ubuntu, Virtual Box, MVC Pattern, Data Preprocessing, ⚡ JDBC | 👨‍👩‍👧‍👦 **4 members** | 🔗 [GitHub Link](https://github.com/UnoYoon/NS_BE-1.git) | 📅 **2025.01.13** |
+| **1**  | 🎬 **NetflixSuggest** | A CRUD system interacting with a database using Netflix Movie Data and JDBC (Java Database Connectivity) |  Ubuntu, Virtual Box, MVC Pattern, Data Preprocessing, JDBC | 👨‍👩‍👧‍👦 **4 members** | 🔗 [GitHub Link](https://github.com/UnoYoon/NS_BE-1.git) | 📅 **2025.01.13** |
 | **2**  | 💰 **SendMoney** | A project designed to provide real-world data processing experience through remote database access and understanding regular expressions | Ubuntu, Virtual Box, Regular Expressions, Port Forwarding, MySQL | 👨‍👩‍👧‍👦 **4 members** | 🔗 [GitHub Link](https://github.com/UnoYoon/Send_Money.git) | 📅 **2025.01.17** |
 | **3**  | 🏥 **CovidMonitor** | A project that provides **accurate analysis** using hospital data and helps with **trend prediction & response** | ELK, Ubuntu, Data Preprocessing, JDBC | 👨‍👩‍👧‍👦 **4 members** | 🔗 [GitHub Link](https://github.com/UnoYoon/Send_Money.git) | 📅 **2025.01.17** |
 
