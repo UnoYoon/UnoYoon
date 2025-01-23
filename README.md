@@ -1,4 +1,4 @@
-# Hello👋  I'm Wonho Yoon!
+# I'm Wonho Yoon
 ###
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnoYoon&count_bg=%23D1D1D1&title_bg=%238A8A8A&icon=&icon_color=%234B4B4B&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -18,7 +18,7 @@
 ## Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite)
 
-## 🧑‍💻 Algorithm
+## 💻Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsgh1204)](https://solved.ac/dnjsgh1204/)
 
 ## :mailbox_with_mail: Contacts
@@ -26,7 +26,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:infrontof111@naver.com)](mailto:infrontof111@naver.com)
 
 
-## Dev.Portfolio
+## 🗂️Dev.Portfolio
 <br>
 
 | No  | 🏆 Project        | 📌 Description                                                               | 🔧 Key Technologies                               | 👩‍👩‍👧‍👦 Team | 🔗 Link                                                           | 📅 Date       |
@@ -34,20 +34,4 @@
 | **1** | **NetflixSuggest** | A CRUD system interacting with a database using Netflix Movie Data and JDBC (Java Database Connectivity) | Ubuntu, Virtual Box, MVC Pattern, Data Preprocessing, JDBC | **4members**      | 🔗 [GitHub Link](https://github.com/UnoYoon/NS_BE-1.git)         | 📅 **2025.01.13** |
 | **2** | **SendMoney**      | A project designed to provide real-world data processing experience through remote database access and understanding regular expressions | Ubuntu, Virtual Box, Regular Expressions, Port Forwarding, MySQL | **4members**      | 🔗 [GitHub Link](https://github.com/UnoYoon/Send_Money.git)      | 📅 **2025.01.17** |
 | **3** | **CovidMonitor**   | A project that provides **accurate analysis** using hospital data and helps with **trend prediction & response** | ELK, Ubuntu, Data Preprocessing, JDBC             | **4members**      | 🔗 [GitHub Link](https://github.com/UnoYoon/Send_Money.git)      | 📅 **2025.01.17** |
-
-
-<!--/
-**UnoYoon/UnoYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
