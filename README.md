@@ -30,11 +30,34 @@
 
 ### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+
+### Virtualization & Infrastructure
+![VMWare](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white) 
+![vCenter](https://img.shields.io/badge/vCenter-607078?style=flat-square&logo=VMware&logoColor=white) 
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183E8D?style=flat-square&logo=VirtualBox&logoColor=white) 
+![ESXi](https://img.shields.io/badge/ESXi-607078?style=flat-square&logo=VMware&logoColor=white)
+
 
 ### Collaboration Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+
+### Operating System
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+
+### Shell
+![Shell](https://img.shields.io/badge/Shell-000000?style=flat-square&logo=GNULinux&logoColor=white) 
+![Git Bash](https://img.shields.io/badge/Git_Bash-F1502F?style=flat-square&logo=Git&logoColor=white)
+
+### Networking
+![Computer Network](https://img.shields.io/badge/Computer_Network-3B82F6?style=flat-square&logo=Network&logoColor=white)
+
+### Virtual Networking Tools
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1E6D6E?style=flat-square&logo=Cisco&logoColor=white)
+
 
 ## Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite)
@@ -57,3 +80,7 @@
 | **3** | **CovidMonitor**     | A project that provides **accurate analysis** using hospital data and helps with **trend prediction & response** | ELK, Ubuntu, Data Preprocessing, JDBC             | **4members**     | 🔗 [GitHub Link](https://github.com/UnoYoon/Send_Money.git)    | 📅 **2025.01.17** |
 | **4** | **UbuntuEK_Card_data** | We visualize 5.2 million card data using Elasticsearch and Kibana. Through this, we establish necessary events and policies for the card company | Ubuntu, ES, Kibana, Data Preprocessing             | **1member**      | 🔗 [GitHub Link](https://github.com/UnoYoon/Ubuntu-EK-Stack.git) | 📅 **2025.01.24** |
 | **5** | **Adult-Academy** | This project develops a web application using the MVC pattern with Java Jakarta EE and MySQL. It features login, registration, and a bulletin board, with BCrypt-based session authentication for user management. | Java Jakarta EE, MySQL, BCrypt, Maven, Apache Tomcat | **4member**   | 🔗 [GitHub Link](https://github.com/UnoYoon/Adult-Academy) | 📅 **2025.02.10** |
+| **6** | **JenkinsInfra** | This project automates server load monitoring using Jenkins to check uptime every minute and logs the data for real-time tracking. It helps system admins monitor server status efficiently. | VMware, VirtualBox, Ubuntu, Docker, Jenkins | **4member**   | 🔗 [GitHub Link](https://github.com/Jenkins-infra-linux/JenkinsInfra?tab=readme-ov-file) | 📅 **2025.03.17** |
+| **7** | **Optimzier-Frime** | The project focuses on containerizing a Spring Boot application with Docker and optimizing the Dockerfile for better efficiency in development and operations. | VMware, VirtualBox, Ubuntu, Docker, Jenkins | **2member**   | 🔗 [GitHub Link](https://github.com/UnoYoon/Optimzier-Frime) | 📅 **2025.03.19** |
+| **8** | **Orchestrator** | We used Docker Compose and scripts to implement MySQL DB redundancy and automated backups, ensuring high availability and data persistence. | Docker, VMware, Ubuntu, JDK, MYSQL | **4member**   | 🔗 [GitHub Link](https://github.com/Jenkins-infra-linux/Orchestrator) | 📅 **2025.03.21** |
+
