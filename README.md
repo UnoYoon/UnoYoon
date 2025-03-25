@@ -41,34 +41,7 @@
 
 ### Collaboration Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
-
-### Operating System
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-
-### Shell
-![Shell](https://img.shields.io/badge/Shell-000000?style=flat-square&logo=GNULinux&logoColor=white) 
-![Git Bash](https://img.shields.io/badge/Git_Bash-F1502F?style=flat-square&logo=Git&logoColor=white)
-
-### Networking
-![Computer Network](https://img.shields.io/badge/Computer_Network-3B82F6?style=flat-square&logo=Network&logoColor=white)
-
-### Virtual Networking Tools
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1E6D6E?style=flat-square&logo=Cisco&logoColor=white)
-
-
-## Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&theme=graywhite)
-
-## 💻Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsgh1204)](https://solved.ac/dnjsgh1204/)
-
-## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:infrontof111@gmail.com)](mailto:infrontof111@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:infrontof111@naver.com)](mailto:infrontof111@naver.com)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=unoyoon_12)](https://velog.io/@unoyoon_12/posts) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=flatㄱ
 
 ## 🗂️Dev.Portfolio
 <br>
