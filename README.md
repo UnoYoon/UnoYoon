@@ -1,6 +1,5 @@
 # Dev.Wonho Yoon
 ###
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnoYoon&count_bg=%23D1D1D1&title_bg=%238A8A8A&icon=&icon_color=%234B4B4B&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Developer Toolkit
 
@@ -41,7 +40,18 @@
 
 ### Collaboration Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat)
+
+
+### GitHub Stats Overview
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=UnoYoon&show_icons=true&count_private=true&hide=prs&theme=gray" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UnoYoon&hide=contribs,prs&show_icons=true&theme=gray" />
+</div>
+
+
+
+
 
 ## 🗂️Dev.Portfolio
 <br>
@@ -56,4 +66,6 @@
 | **6** | **JenkinsInfra** | This project automates server load monitoring using Jenkins to check uptime every minute and logs the data for real-time tracking. It helps system admins monitor server status efficiently. | VMware, VirtualBox, Ubuntu, Docker, Jenkins | **4member**   | 🔗 [GitHub Link](https://github.com/Jenkins-infra-linux/JenkinsInfra?tab=readme-ov-file) | 📅 **2025.03.17** |
 | **7** | **Optimzier-Frime** | The project focuses on containerizing a Spring Boot application with Docker and optimizing the Dockerfile for better efficiency in development and operations. | VMware, VirtualBox, Ubuntu, Docker, Jenkins | **2member**   | 🔗 [GitHub Link](https://github.com/UnoYoon/Optimzier-Frime) | 📅 **2025.03.19** |
 | **8** | **Orchestrator** | We used Docker Compose and scripts to implement MySQL DB redundancy and automated backups, ensuring high availability and data persistence. | Docker, VMware, Ubuntu, JDK, MYSQL | **4member**   | 🔗 [GitHub Link](https://github.com/Jenkins-infra-linux/Orchestrator) | 📅 **2025.03.21** |
+| **9** | **jenkins-scp-cicd-practice** | GitHub Webhook automates Jenkins builds when code is modified, and Ngrok exposes the local Jenkins server to the external network, reducing costs. This enables real-time builds and deployments while maintaining efficient automation without additional server costs. | Docker, VMware, Ubuntu, JAVA, Jenkins, Ngrok | **4member**   | 🔗 [GitHub Link](https://github.com/UnoYoon/jenkins-scp-cicd-practice) | 📅 **2025.03.27** |
+
 
