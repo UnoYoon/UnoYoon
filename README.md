@@ -37,6 +37,11 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183E8D?style=flat-square&logo=VirtualBox&logoColor=white) 
 ![ESXi](https://img.shields.io/badge/ESXi-607078?style=flat-square&logo=VMware&logoColor=white)
 
+### Cloud & Infrastructure
+![Jenkins](https://img.shields.io/badge/Jenkins-d24824?style=flat-square&logo=Jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+
 
 ### Collaboration Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
