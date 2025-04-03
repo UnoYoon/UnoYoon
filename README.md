@@ -1,5 +1,28 @@
-# Dev.Wonho Yoon
-###
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ca1616,100:d42525&height=240&text=Yoon's%20Github&animation=&fontColor=859ccc&fontSize=70" />
+</div>
+
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi &nbsp;🙌 &nbsp; I'm wonho Yoon </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        🚀 An engineer growing through cloud and infrastructure exploration.  
+        Passionate about building efficient DevOps environments and shaping a better future! 
+    </div> 
+</div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> 
+        <a href="mailto:infrontof111@naver.com"> 
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+        </a>
+        <a href="https://velog.io/@unoyoon_12/posts"> 
+            <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"> 
+        </a>
+    </div>  
+</div>
+
+
 
 ## Developer Toolkit
 
@@ -39,13 +62,18 @@
 
 ### Cloud & Infrastructure
 ![Jenkins](https://img.shields.io/badge/Jenkins-d24824?style=flat-square&logo=Jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/amazoneks-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
+![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=flat-square&logo=prometheus&logoColor=white)
+![grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=flat-square&logo=grafana&logoColor=white)
+
 
 
 
 ### Collaboration Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 
 ### GitHub Stats Overview
