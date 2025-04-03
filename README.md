@@ -54,7 +54,7 @@
 </div>
 
 ### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsgh1204)](https://solved.ac/dnjsgh1204/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsgh1204)](https://solved.ac/profile/dnjsgh1204)
 
 
 
