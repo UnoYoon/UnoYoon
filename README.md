@@ -5,10 +5,11 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi &nbsp;🙌 &nbsp; I'm wonho Yoon </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        🚀 An engineer growing through cloud and infrastructure exploration.  
-        Passionate about building efficient DevOps environments and shaping a better future! 
+        🚀 An engineer growing through cloud and infrastructure exploration. <br>
+      &nbsp; &nbsp;&nbsp; Passionate about building efficient DevOps environments and shaping a better future! 
     </div> 
 </div>
+
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -102,5 +103,6 @@
 | **7** | **Optimzier-Frime** | The project focuses on containerizing a Spring Boot application with Docker and optimizing the Dockerfile for better efficiency in development and operations. | VMware, VirtualBox, Ubuntu, Docker, Jenkins | **2member**   | 🔗 [GitHub Link](https://github.com/UnoYoon/Optimzier-Frime) | 📅 **2025.03.19** |
 | **8** | **Orchestrator** | We used Docker Compose and scripts to implement MySQL DB redundancy and automated backups, ensuring high availability and data persistence. | Docker, VMware, Ubuntu, JDK, MYSQL | **4member**   | 🔗 [GitHub Link](https://github.com/Jenkins-infra-linux/Orchestrator) | 📅 **2025.03.21** |
 | **9** | **jenkins-scp-cicd-practice** | GitHub Webhook automates Jenkins builds when code is modified, and Ngrok exposes the local Jenkins server to the external network, reducing costs. This enables real-time builds and deployments while maintaining efficient automation without additional server costs. | Docker, VMware, Ubuntu, JAVA, Jenkins, Ngrok | **4member**   | 🔗 [GitHub Link](https://github.com/UnoYoon/jenkins-scp-cicd-practice) | 📅 **2025.03.27** |
+| **10** | **K8s-SpringBoot-Service** | Deployed a Spring Boot application on Kubernetes, exposing services via LoadBalancer and NodePort to build a cost-efficient, scalable, and reliable cloud-native infrastructure. | kubernetes, Docker, VMware, Ubuntu, JAVA, Jenkins, Ngrok | **1member** | 🔗 [GitHub Link](https://github.com/UnoYoon/K8s-SpringBoot-Service) | 📅 **2025.03.28** |
 
 
